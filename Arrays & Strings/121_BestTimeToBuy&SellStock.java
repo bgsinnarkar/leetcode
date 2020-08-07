@@ -3,9 +3,9 @@
 Time Complexity : O(n)
 Space Complexity : O(n)
 
-https://leetcode.com/problems/maximum-subarray/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-Kadane's Algorith
+Kedane's Algorith
 
 ***********************************************/
 

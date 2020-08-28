@@ -1,7 +1,7 @@
 /***********************************************
 
 Time Complexity : O(n * m)
-Space Complexity : O(n, m)
+Space Complexity : O(n)
 
 https://leetcode.com/problems/word-break/
 
